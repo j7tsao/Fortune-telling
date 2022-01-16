@@ -1,4 +1,4 @@
-# Fortunetelling
+# Fortune-telling
 
 ## Features
 Based on an ancient Chinese fortunetelling theory described in [Fortune prediction](https://kknews.cc/astrology/ov3ze2m.html), this script generates the prediction of individual's fortune and wealth in a lifetime based on the birth year and birth month (Chinese lunar calendar).  
