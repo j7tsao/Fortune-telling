@@ -6,7 +6,7 @@ Based on an ancient Chinese fortunetelling theory described in [Fortune predicti
 
 
 ## Input (fate_info.json):
-Enter multiple users' info here -
+Edit and enter users' info here -
 * Name  
 * Birth year (Chinese lunar calendar)  
 * Birth month(Chinese lunar calendar)  
