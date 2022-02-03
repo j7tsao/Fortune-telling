@@ -21,6 +21,7 @@ Run the script in either form below -
 ```
 ./fate.py fate_info.json
 ```
+or
 ```
 python fate.py fate_info.json
 ```
